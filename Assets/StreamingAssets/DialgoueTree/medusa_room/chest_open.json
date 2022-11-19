@@ -1,0 +1,45 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "How long has it been since my heart was encased in this stone jar?",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_crying",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "",
+				"twoPortraitFacingDirection": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "I hope I'm doing the right thing.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_sad",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "",
+				"twoPortraitFacingDirection": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

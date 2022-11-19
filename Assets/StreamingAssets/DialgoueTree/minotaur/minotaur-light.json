@@ -1,0 +1,30 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "Ah, it burns!!!",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "Minotaur:",
+				"speakerOnePortrait": "snakey_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "right",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+
+
+
+		
+
+		]
+	
+}

@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: c4901667a84d24d0b81e7d300e0899e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1168300143716157174
+    second: villager_olive_oil_walk_0
+  - first:
+      213: -3277061023926520552
+    second: villager_olive_oil_walk_1
+  - first:
+      213: -6166749152181412051
+    second: villager_olive_oil_walk_2
+  - first:
+      213: 6926411989163521630
+    second: villager_olive_oil_walk_3
+  - first:
+      213: -383517782894453563
+    second: villager_olive_oil_walk_4
+  - first:
+      213: -5070104250438342168
+    second: villager_olive_oil_walk_5
+  - first:
+      213: -1711059329106841968
+    second: villager_olive_oil_walk_6
+  - first:
+      213: 8121457240212055590
+    second: villager_olive_oil_walk_7
+  - first:
+      213: 3503863964411908684
+    second: villager_olive_oil_walk_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: villager_olive_oil_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1640
+        width: 810
+        height: 820
+      alignment: 9
+      pivot: {x: 0.5604938, y: 0.04146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09b2ce853d59cfe0800000000000000
+      internalID: -1168300143716157174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_olive_oil_walk_1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1640
+        width: 810
+        height: 820
+      alignment: 9
+      pivot: {x: 0.5604938, y: 0.04146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815f4918c5a8582d0800000000000000
+      internalID: -3277061023926520552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_olive_oil_walk_2
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1640
+        width: 810
+        height: 820
+      alignment: 9
+      pivot: {x: 0.5604938, y: 0.04146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f1945a15e4b6aa0800000000000000
+      internalID: -6166749152181412051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_olive_oil_walk_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 810
+        height: 820
+      alignment: 9
+      pivot: {x: 0.5604938, y: 0.04146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e563916a10f8f1060800000000000000
+      internalID: 6926411989163521630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_olive_oil_walk_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 820
+        width: 810
+        height: 820
+      alignment: 9
+      pivot: {x: 0.5604938, y: 0.04146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccd781cb987daaf0800000000000000
+      internalID: -383517782894453563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_olive_oil_walk_5
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 820
+        width: 810
+        height: 820
+      alignment: 9
+      pivot: {x: 0.5604938, y: 0.04146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9ac6afb0f53a9b0800000000000000
+      internalID: -5070104250438342168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_olive_oil_walk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 810
+        height: 820
+      alignment: 9
+      pivot: {x: 0.5604938, y: 0.04146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ee7f21b981148e0800000000000000
+      internalID: -1711059329106841968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_olive_oil_walk_7
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 810
+        height: 820
+      alignment: 9
+      pivot: {x: 0.5604938, y: 0.04146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6262d55a45635b070800000000000000
+      internalID: 8121457240212055590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_olive_oil_walk_8
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 810
+        height: 820
+      alignment: 9
+      pivot: {x: 0.5604938, y: 0.04146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42501c16b930a030800000000000000
+      internalID: 3503863964411908684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

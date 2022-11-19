@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 3a17642629beb4a50a25e142e03b9c33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5875400546730859109
+    second: house_background_01
+  - first:
+      213: -6107107125380914115
+    second: level_03_bg_02
+  - first:
+      213: -5733874041965053883
+    second: level_03_fg_01
+  - first:
+      213: 1540382344746013304
+    second: level_03_fg_02
+  - first:
+      213: -8513253091422909881
+    second: level_03_fg_03
+  - first:
+      213: -1408066374692470377
+    second: level_02_bg_01
+  - first:
+      213: -2197440514767584384
+    second: level_02_bg_02
+  - first:
+      213: 501200271496842956
+    second: level_02_fg_01
+  - first:
+      213: -6703472340704241098
+    second: level_01_bg_01
+  - first:
+      213: 5341163676538332068
+    second: storage_room
+  - first:
+      213: 8502547190976729782
+    second: level_01_fg_01
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_background_01
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 4495
+        width: 1274
+        height: 696
+      alignment: 9
+      pivot: {x: 0.5, y: 0.030172413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95a8faf452667ea0800000000000000
+      internalID: -5875400546730859109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_03_bg_02
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3418
+        width: 1877
+        height: 902
+      alignment: 9
+      pivot: {x: 0.4986681, y: 0.021064302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34e9622d623f3ba0800000000000000
+      internalID: -6107107125380914115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_03_fg_01
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2872
+        width: 690
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548f6dd20ff2d60b0800000000000000
+      internalID: -5733874041965053883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_03_fg_02
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2863
+        width: 722
+        height: 485
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8729edcc499806510800000000000000
+      internalID: 1540382344746013304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_03_fg_03
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2855
+        width: 882
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74acdb22b69dad980800000000000000
+      internalID: -8513253091422909881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_02_bg_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2015
+        width: 3019
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5001539, y: 0.007968128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791884ca71b857ce0800000000000000
+      internalID: -1408066374692470377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_02_bg_02
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1327
+        width: 2543
+        height: 681
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0830a3e8e7f1181e0800000000000000
+      internalID: -2197440514767584384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_02_fg_01
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1363
+        width: 838
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce06efcdfe94f600800000000000000
+      internalID: 501200271496842956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_01_bg_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 3684
+        height: 717
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0013947001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63adaa23c6b78f2a0800000000000000
+      internalID: -6703472340704241098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_room
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 165
+        width: 1243
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3694ba010af1a40800000000000000
+      internalID: 5341163676538332068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_01_fg_01
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 170
+        width: 411
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2d92c2f9d1ff570800000000000000
+      internalID: 8502547190976729782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

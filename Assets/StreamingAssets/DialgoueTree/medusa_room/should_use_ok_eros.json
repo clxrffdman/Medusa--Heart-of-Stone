@@ -1,0 +1,25 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "I should give OK Eros a try before leaving.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "",
+				"twoPortraitFacingDirection": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

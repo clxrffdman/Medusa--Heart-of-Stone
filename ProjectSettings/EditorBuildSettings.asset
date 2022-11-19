@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: a9bc1265f1e0b1e47867a82cadb85345
+  - enabled: 1
+    path: Assets/Scenes/Scene_01_Medusa_Room.unity
+    guid: a9697202d1a874d8abd36f913f779e8f
+  - enabled: 1
+    path: Assets/Scenes/Scene_02_Medusa_Forest.unity
+    guid: 86e1f2dd116024d70b4e97c7ea573d54
+  - enabled: 1
+    path: Assets/Scenes/Scene_03_Medusa_Forest_Day.unity
+    guid: 33408dd07513c4288984e17414b70b99
+  - enabled: 1
+    path: Assets/Scenes/Scene_0P_Puzzle.unity
+    guid: 5ff6a6acb57de5e4bbeda7f9deb48025
+  - enabled: 1
+    path: Assets/Scenes/Scene_04_Hecate_Temple.unity
+    guid: d4c9f49c45f82404692f849b53583990
+  - enabled: 1
+    path: Assets/Scenes/Scene_05_Farmlands.unity
+    guid: 44d4142e62888468d8b4c994d07b4bee
+  - enabled: 1
+    path: Assets/Scenes/Scene_06_City.unity
+    guid: 1f7843c9895a3441cb3a4011d161a635
+  - enabled: 1
+    path: Assets/Scenes/Scene_07_Storage_Room.unity
+    guid: 7d43c2ff74d11497fa7df5ddfcf07f88
+  - enabled: 1
+    path: Assets/Scenes/[PH] Test Scenes/[Testing] Scene_06_Chimera_Forest.unity
+    guid: 913b9451f73a095409a29cd70b298f36
+  - enabled: 1
+    path: Assets/Scenes/[PH] Test Scenes/[Testing] Scene_07_Minotaur_fight.unity
+    guid: 4d2d2c4ab1bd4fb40837d46ef26d7610
+  - enabled: 1
+    path: Assets/Scenes/Scene_08_Chimera_Forest_01.unity
+    guid: d0009037c42a0466b99d422403f90f7a
+  - enabled: 1
+    path: Assets/Scenes/Scene_08_Chimera_Forest_02.unity
+    guid: afbe8fd779b6e436b9a499249fea992b
+  - enabled: 1
+    path: Assets/Scenes/Scene_08_Chimera_Forest_03.unity
+    guid: bc52fa4832ddc41e99e537243c914ea6
+  - enabled: 1
+    path: Assets/Scenes/Scene_08_Chimera_Forest_04.unity
+    guid: 99494c5415e0549259e6c8ce2e72c854
+  - enabled: 1
+    path: Assets/Scenes/Scene_09_Medusa_Forest_Day.unity
+    guid: ba9ead9a6f5104ed297bd789ebc72c94
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: 322d6afa27d6044b69c1b90b0e1b0cda
+  m_configObjects: {}

@@ -1,0 +1,125 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "All those rats just going to waste. How depressing.",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "snakey_sorry",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "right",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "It's for the best. They probably would have given you a stomach ache.",
+				"replies": [],
+				"nodeLinks": [2],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 2,
+				"spokenWords": "I think Aesop was right. These were not everyday rodents. They looked possessed.",
+				"replies": [],
+				"nodeLinks": [3],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_annoyed",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 3,
+				"spokenWords": "If I had to guess... summoned by some unearthly being. But who would want to hurt this city?",
+				"replies": [],
+				"nodeLinks": [4],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_confused",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 4,
+				"spokenWords": "The Chimera might hold the answer.",
+				"replies": [],
+				"nodeLinks": [5],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_yelling",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 5,
+				"spokenWords": "Possibly. In any case, we should get going.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

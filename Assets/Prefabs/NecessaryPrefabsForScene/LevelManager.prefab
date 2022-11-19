@@ -1,0 +1,286 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5526409279047033410
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1686307301208988994}
+  m_Layer: 0
+  m_Name: StartPosition
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1686307301208988994
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5526409279047033410}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8235126215890583980}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5600702910779746886
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7135901887420366231}
+  - component: {fileID: 9191722280879033563}
+  - component: {fileID: 3173747374584851519}
+  - component: {fileID: 496180065363683279}
+  m_Layer: 0
+  m_Name: SaveDataExample
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7135901887420366231
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5600702910779746886}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8235126215890583980}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9191722280879033563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5600702910779746886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8aa68659583644bd58164fedaafa03d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  saveName: 
+  sceneIndex: 0
+  saveIndex: 0
+  savedObjectAmount: 0
+  savedObjects: []
+--- !u!114 &3173747374584851519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5600702910779746886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89e2b81faee0c42c284cd0b287593062, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  saveName: 
+  health: 0
+  playerPosition: []
+  sceneIndex: 0
+  saveIndex: 0
+  invent: []
+  objectiveQuantity: 0
+  objectiveStrings: []
+  taskList: []
+--- !u!114 &496180065363683279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5600702910779746886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb78c71372cc440f28e2c706c1d918f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  setTaskListOnLoad: 0
+  tasksList:
+  - taskID: internalDialogueOne
+    completed: 0
+  - taskID: brokeMirror
+    completed: 0
+  - taskID: spokeToOracle
+    completed: 0
+  - taskID: openedChest
+    completed: 0
+  - taskID: collectedHeartJar
+    completed: 0
+  - taskID: talkToSnakey
+    completed: 0
+  - taskID: foughtSoldiers1
+    completed: 0
+  - taskID: lostToSoldiers1
+    completed: 0
+  - taskID: preyToEros01
+    completed: 0
+  - taskID: askErosForHelp
+    completed: 0
+  - taskID: thankErosForHelp
+    completed: 0
+  - taskID: datedHephaestus
+    completed: 0
+  - taskID: finishedCredits
+    completed: 0
+  - taskID: displayedWriterCredit
+    completed: 0
+  - taskID: talkToHecate01
+    completed: 0
+  - taskID: enteredFarmland
+    completed: 0
+  - taskID: foundGrass
+    completed: 0
+  - taskID: foundPot
+    completed: 0
+  - taskID: fedCow
+    completed: 0
+  - taskID: killedRats
+    completed: 0
+  - taskID: talkedToOldMan
+    completed: 0
+  - taskID: talkedToStorageMan
+    completed: 0
+  - taskID: gotOliveOil
+    completed: 0
+  - taskID: gotMilk
+    completed: 0
+  - taskID: gotGrain
+    completed: 0
+  - taskID: gotChimeraAnswer
+    completed: 0
+  - taskID: finishedDemo
+    completed: 0
+  - taskID: talkToRiddleWoman
+    completed: 0
+  - taskID: failedChimeraBaby01
+    completed: 0
+  - taskID: foundChimeraKey01
+    completed: 0
+  - taskID: savedChimeraBaby01
+    completed: 0
+  - taskID: failedChimeraBaby02
+    completed: 0
+  - taskID: foundChimeraKey02
+    completed: 0
+  - taskID: savedChimeraBaby02
+    completed: 0
+  - taskID: failedChimeraBaby03
+    completed: 0
+  - taskID: foundChimeraKey03
+    completed: 0
+  - taskID: savedChimeraBaby03
+    completed: 0
+  - taskID: failedChimeraBaby04
+    completed: 0
+  - taskID: foundChimeraKey04
+    completed: 0
+  - taskID: savedChimeraBaby04
+    completed: 0
+  - taskID: gotBell
+    completed: 0
+  - taskID: bellAttached
+    completed: 0
+  - taskID: bellRung
+    completed: 0
+  - taskID: foughtSoldiers2
+    completed: 0
+  - taskID: lostToSoldiers2
+    completed: 0
+--- !u!1 &8235126215890583978
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8235126215890583980}
+  - component: {fileID: 8235126215890583979}
+  - component: {fileID: 6579014964210682695}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8235126215890583980
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8235126215890583978}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1686307301208988994}
+  - {fileID: 7135901887420366231}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8235126215890583979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8235126215890583978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3b8809ba3a3e9848a24d334943f0e29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelMusic: 
+  paused: 0
+  inInventory: 0
+  inDialogue: 0
+  inDialogueMini: 0
+  inDatingGame: 0
+  levelName: 
+  player: {fileID: 0}
+  selectedMain: -1
+  selectedSlot: -1
+  discarding: 0
+--- !u!114 &6579014964210682695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8235126215890583978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eb27570eee12304c938471784847ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SaveableObjects: []
+  fileSaveName: 
+  saveIndex: 0
+  savedObjectAmount: 0
+  savedObjects: []
+  savedObjectiveQuantity: 0
+  savedObjectives: []
+  loaded: 0
+  freshSave: 0
+  sceneToScene: 0

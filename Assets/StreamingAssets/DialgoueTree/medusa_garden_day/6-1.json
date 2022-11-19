@@ -1,0 +1,89 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "Where are we going?",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "snakey_yelling",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait":"",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "left",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "To see Hecate...",
+				"replies": [],
+				"nodeLinks": [2],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 2,
+				"spokenWords": "Don't forget the tribute. She likes berries... a lot of them.",
+				"replies": [],
+				"nodeLinks": [3],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_yelling",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 3,
+				"spokenWords": "I remember. We'll gather them on the way.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal_hiss",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

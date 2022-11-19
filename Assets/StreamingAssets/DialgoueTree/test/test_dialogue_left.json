@@ -1,0 +1,75 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "I am the most beautiful medusa of them all. I am so beautiful, they decided not to use me.",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerOnePortrait": "medusa_glamorous",
+				"voice": "male",
+				"audioSFX": "bubbling",
+				"musicCue": "heaven",
+				"overrideFacingDirectionPlayer": "left",
+				"overrideFacingDirectionNPC":"right",
+				"questCompleted": "talk_to_oracle"
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "",
+				"replies": ["I do not think so", "I agree completely"],
+				"nodeLinks": [2, 3],
+				"speakerOnePortrait": "medusa_heroine",
+				"voice": "male",
+				"audioSFX": "growling",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			},
+
+			{
+				"id": 2,
+				"spokenWords": "Well what do you know?",
+				"replies": [],
+				"nodeLinks": [4],
+				"speakerOnePortrait": "medusa_glamorous",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			},
+
+			{
+				"id": 3,
+				"spokenWords": "I'm glad you agree with me.",
+				"replies": [],
+				"nodeLinks": [4],
+				"speakerOnePortrait": "medusa_glamorous",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			},
+
+			{
+				"id": 4,
+				"spokenWords": "Let's not talk about this anymore.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerOnePortrait": "medusa_heroine",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			}
+		]
+	
+}

@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OutlineShaderMat
+  m_Shader: {fileID: -6465566751694194690, guid: e4fd8e4413adcca49bb895e8ea3ee49c,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 6cc080e6311f047e0bc2b0f316390b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_08430d7bea75411a88b767c2c5d10c8b_Out_0:
+        m_Texture: {fileID: 2800000, guid: 6cc080e6311f047e0bc2b0f316390b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_233ab49e98a5487eab4c8f2dbabe0b84_Out_0:
+        m_Texture: {fileID: 2800000, guid: 300405d2d18d50347bc13faec7f9fbc5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_26e9b5540087420a9e32829f0a8e616c_Out_0:
+        m_Texture: {fileID: 2800000, guid: 300405d2d18d50347bc13faec7f9fbc5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_2ab091d5679f48bebeaeb4655eaf1461_Out_0:
+        m_Texture: {fileID: 2800000, guid: 6cc080e6311f047e0bc2b0f316390b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_33d3cca7ae124e79acf06e919d0caa82_Out_0:
+        m_Texture: {fileID: 2800000, guid: 6cc080e6311f047e0bc2b0f316390b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_4dd7e3bc1ce3480c9222f9ae7d884a16_Out_0:
+        m_Texture: {fileID: 2800000, guid: 6cc080e6311f047e0bc2b0f316390b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_81a73084181d4251ae4c226f49f2ae8d_Out_0:
+        m_Texture: {fileID: 2800000, guid: 6cc080e6311f047e0bc2b0f316390b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_9dfcd56e586e4924bd1fb9ca99e3a768_Out_0:
+        m_Texture: {fileID: 2800000, guid: 6cc080e6311f047e0bc2b0f316390b22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_d6701bccffd8498496912692e804d00b_Out_0:
+        m_Texture: {fileID: 2800000, guid: 300405d2d18d50347bc13faec7f9fbc5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_b595bbbf811940238077d0ce75135a6f: 0.0062
+    - _EnableExternalAlpha: 0
+    - thickness: 0.0075
+    m_Colors:
+    - Color_1630b312062c44c6b2915cfab8993b13: {r: 271.17407, g: 188.1656, b: 0, a: 1}
+    - Color_c6adb1f965d043d2a8f310eb64097072: {r: 0.01962441, g: 0.4622642, b: 0.08147583,
+        a: 1}
+    - Color_d6cab660a68347e8ae696e4ea0c4159a: {r: 10.373214, g: 11.003138, b: 0, a: 0}
+    - Color_e0276ba15e614adc83d9ec5fd2f093de: {r: 0.2154236, g: 0.9716981, b: 0.294036,
+        a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

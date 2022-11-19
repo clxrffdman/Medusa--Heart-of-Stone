@@ -1,0 +1,110 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "This is bad. Now that the soldiers know we're here they will send more in the future.",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "snakey_yelling",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait":"",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "right",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "Let them come! I will turn them all to stone if need be.",
+				"replies": [],
+				"nodeLinks": [2],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_angry",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 2,
+				"spokenWords": "You cannot fight them all off.",
+				"replies": [],
+				"nodeLinks": [3],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_yelling",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 3,
+				"spokenWords": "I know. But we should have a little time before more arrive.",
+				"replies": [],
+				"nodeLinks": [4],
+				"speakerName": "snake",
+				"speakerOnePortrait": "medusa_sad",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 4,
+				"spokenWords": "Let's think about what we should do tomorrow.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "snake",
+				"speakerOnePortrait": "medusa_sad",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

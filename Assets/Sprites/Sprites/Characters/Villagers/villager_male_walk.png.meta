@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 1571e3bb576dc4b898ff6642714053eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6138364590476525427
+    second: villager_male_0
+  - first:
+      213: -7297194134139073524
+    second: villager_male_1
+  - first:
+      213: 3356939638624010429
+    second: villager_male_2
+  - first:
+      213: 7232353140783643474
+    second: villager_male_3
+  - first:
+      213: 6489590596750275067
+    second: villager_male_4
+  - first:
+      213: 832500271711283723
+    second: villager_male_5
+  - first:
+      213: -2778736660800882908
+    second: villager_male_6
+  - first:
+      213: -8411466654130534262
+    second: villager_male_7
+  - first:
+      213: 2392009154822491932
+    second: villager_male_walk_0
+  - first:
+      213: 1842852127489730686
+    second: villager_male_walk_1
+  - first:
+      213: 1581161412164401356
+    second: villager_male_walk_2
+  - first:
+      213: -3764195874587236038
+    second: villager_male_walk_3
+  - first:
+      213: 1229233951379683648
+    second: villager_male_walk_4
+  - first:
+      213: -8490075251815737412
+    second: villager_male_walk_5
+  - first:
+      213: -2323488751424249048
+    second: villager_male_walk_6
+  - first:
+      213: -5364312739910125127
+    second: villager_male_walk_7
+  - first:
+      213: -4490173768271913752
+    second: villager_male_walk_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: villager_male_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 810
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f4da427af123120800000000000000
+      internalID: 2392009154822491932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_male_walk_1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1620
+        width: 810
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7829900f30239910800000000000000
+      internalID: 1842852127489730686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_male_walk_2
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1620
+        width: 810
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83d905de961f510800000000000000
+      internalID: 1581161412164401356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_male_walk_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 810
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39ac3eabc3e2cbc0800000000000000
+      internalID: -3764195874587236038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_male_walk_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 810
+        width: 810
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049f5d914cd1f0110800000000000000
+      internalID: 1229233951379683648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_male_walk_5
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 810
+        width: 810
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb710337a813d2a80800000000000000
+      internalID: -8490075251815737412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_male_walk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 810
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823edbb7a4f41cfd0800000000000000
+      internalID: -2323488751424249048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_male_walk_7
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 810
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9fd810cf12e85b0800000000000000
+      internalID: -5364312739910125127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villager_male_walk_8
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 810
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec106a6fb2bfa1c0800000000000000
+      internalID: -4490173768271913752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

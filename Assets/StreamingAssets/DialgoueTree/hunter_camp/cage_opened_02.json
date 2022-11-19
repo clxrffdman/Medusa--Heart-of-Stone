@@ -1,0 +1,25 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "Go now! Say hello to your mother for me.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_normal_mask",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait":"",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

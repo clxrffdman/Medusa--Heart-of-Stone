@@ -1,0 +1,146 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "In my former years, I could have cleaned this place all by myself.",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "snakey_excited",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "right",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "I can't remember the last time I had a plump, juice rat for a meal.",
+				"replies": [],
+				"nodeLinks": [2],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_happy",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 2,
+				"spokenWords": "In fact, I don't recall eating anything since being stuck to your head.",
+				"replies": [],
+				"nodeLinks": [3],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_sad",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 3,
+				"spokenWords": "That's because you live off of my body.",
+				"replies": [],
+				"nodeLinks": [4],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 4,
+				"spokenWords": "Wait... what would happen if you did eat something? I mean, eventually... you know... when you had to go...",
+				"replies": [],
+				"nodeLinks": [5],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_confused",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 5,
+				"spokenWords": "...poop? Not sure. I guess it would travel into your brain.",
+				"replies": [],
+				"nodeLinks": [6],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_afraid",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_yelling",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 6,
+				"spokenWords": "Blech! This job is disgusting enough as is without having to think about that. Let's just get it done.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_annoyed",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+
+		]
+	
+}

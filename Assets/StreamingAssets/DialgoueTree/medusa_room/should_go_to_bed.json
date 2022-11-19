@@ -1,0 +1,45 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "Why are you trying to go out again! You need to rest!",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_afraid",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "snakey_angry",
+				"twoPortraitFacingDirection": "left",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "Sorry, I wasn't thinking straight.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_sad",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

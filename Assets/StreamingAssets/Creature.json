@@ -1,0 +1,20 @@
+
+[
+	{
+		"Name": "Yumo",
+		"Level": 7,
+		"Stats": [4,7]
+	},
+
+	{
+		"Name": "Godzilla",
+		"Level": 7,
+		"Stats": [4,7]
+	},
+
+	{
+		"Name": "KingKong",
+		"Level": 7,
+		"Stats": [4,7]
+	}
+]

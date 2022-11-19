@@ -1,0 +1,45 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "At least the harvest was pretty good this year. I have enough to feed a whole family.",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_happy",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "",
+				"twoPortraitFacingDirection": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "I hope none of it goes to waste.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_nervous",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "",
+				"twoPortraitFacingDirection": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

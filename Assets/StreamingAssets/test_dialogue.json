@@ -1,0 +1,138 @@
+[
+	{
+		"id": 0,
+		"prompt": "You Lucas...?",
+		"replies": {
+			
+		},
+		"dialoguelinks": {
+			"1": 1
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	},
+
+	{
+		"id": 1,
+		"prompt": "I'm going to guess by that dimwitted look on your face you're the new B.",
+		"replies": {
+		},
+		"dialoguelinks": {
+			"1": 2
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	},
+
+	{
+		"id": 2,
+		"prompt": "Welcome to H. E. double hockey sticks.",
+		"replies": {
+			
+		},
+		"dialoguelinks": {
+			"1": 3
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	},
+
+	{
+		"id": 3,
+		"prompt": "Don't worry. I was in your position once. I still remember stumbling out of that elevator shit faced and puking my guts out.",
+		"replies": {
+			
+		},
+		"dialoguelinks": {
+			"1": 4
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	},
+
+	{
+		"id": 4,
+		"prompt": "You don't look drunk so you're already one up on me.",
+		"replies": {
+			
+		},
+		"dialoguelinks": {
+			"1": 5
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	},
+
+	{
+		"id": 5,
+		"prompt": "Ready for the dime tour?",
+		"replies": {
+			"1": "Yeah... ",
+			"2": "(nod head) "
+		},
+		"dialoguelinks": {
+			"1": 6,
+			"2": 7
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	},
+
+	{
+		"id": 6,
+		"prompt": "Well, don't just stand there with your thumb up your butt. Come on.",
+		"replies": {
+		},
+		"dialoguelinks": {
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	},
+
+	{
+		"id": 7,
+		"prompt": "You don't talk much do you?",
+		"replies": {
+		},
+		"dialoguelinks": {
+			"1": 8
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	},
+
+	{
+		"id": 8,
+		"prompt": "You're going to fit right in. Whatever happens in here, keep your mouth shut.",
+		"replies": {
+		},
+		"dialoguelinks": {
+			"1": 9
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	},
+
+	{
+		"id": 9,
+		"prompt": "The last thing we need is admin getting into our business.",
+		"replies": {
+		},
+		"dialoguelinks": {
+			"1": 10
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	},
+
+	{
+		"id": 10,
+		"prompt": "Let's go...",
+		"replies": {
+		},
+		"dialoguelinks": {
+		},
+		"portrait": "charlemagne_talking",
+		"voice": "male"
+	}
+]

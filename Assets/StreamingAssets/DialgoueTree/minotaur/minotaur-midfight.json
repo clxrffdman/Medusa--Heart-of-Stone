@@ -1,0 +1,50 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "Stop damaging my home!",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "Minotaur:",
+				"speakerOnePortrait": "snakey_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "right",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "You're doing that yourself!",
+				"replies": [],
+				"nodeLinks": [2],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "snakey_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "medusa_normal",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+
+
+
+		
+
+		]
+	
+}

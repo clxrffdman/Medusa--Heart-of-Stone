@@ -1,0 +1,85 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "Hecate wasn't kidding. This place looks like a desolate wasteland.",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal_mask",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "snakey_yelling",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "right",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "Where should we go from here?",
+				"replies": [],
+				"nodeLinks": [2],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal_mask",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_yelling",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 2,
+				"spokenWords": "Let's head to the city and get some information.",
+				"replies": [],
+				"nodeLinks": [3],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "medusa_normal_mask",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_normal",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 3,
+				"spokenWords": "Sounds like a logical plan.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal_mask",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "snakey_yelling",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

@@ -1,0 +1,69 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "I am the mixed medusa. They still thought I was too beautiful so they didn't use me.",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "Medusa_Mix:",
+				"speakerOnePortrait": "medusa_mix",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"overrideFacingDirectionNPC":"right",
+				"questCompleted": "talk_to_oracle"
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "Well that's just freaking greeeeeeeeaaaaaaaaaaaaaaaaaaat!!!!!!!!!!!!!!!!!!!!!!!!!!",
+				"replies": [],
+				"nodeLinks": [2],
+				"speakerName": "Medusa_Mix:",
+				"speakerOnePortrait": "medusa_mix",
+				"speakerTwoPortrait": "soldier_temp_portrait",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "left",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			},
+
+			{
+				"id": 2,
+				"spokenWords": "Sorry, but I'm the best.",
+				"replies": [],
+				"nodeLinks": [3],
+				"speakerName": "Medusa_Heroine:",
+				"speakerOnePortrait": "medusa_heroine",
+				"speakerTwoPortrait": "soldier_temp_portrait",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			},
+
+			{
+				"id": 3,
+				"spokenWords": "No you're not!",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "Medusa_Mix:",
+				"speakerOnePortrait": "medusa_evil",
+				"speakerTwoPortrait": "soldier_temp_portrait",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "right",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			}
+
+		]
+	
+}

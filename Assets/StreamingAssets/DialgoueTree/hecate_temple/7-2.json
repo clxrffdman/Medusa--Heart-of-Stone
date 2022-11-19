@@ -1,0 +1,110 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "A perfect fit! How do you feel?",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "hecate",
+				"speakerOnePortrait": "hecate_happy",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "medusa_normal_mask",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait":"",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "left",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "Kind of foolish quite honestly.",
+				"replies": [],
+				"nodeLinks": [2],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "hecate_happy",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "medusa_nervous_mask",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait":"",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "left",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 2,
+				"spokenWords": "But it's a small price to pay.",
+				"replies": [],
+				"nodeLinks": [3],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "hecate_happy",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "medusa_normal_mask",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait":"",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "left",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 3,
+				"spokenWords": "That's the spirit. I have created a portal that will bring you to your first destination.",
+				"replies": [],
+				"nodeLinks": [4],
+				"speakerName": "hecate",
+				"speakerOnePortrait": "hecate_happy",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "medusa_normal_mask",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait":"",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "left",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 4,
+				"spokenWords": "May the gods be on your side!",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "hecate",
+				"speakerOnePortrait": "hecate_happy",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "medusa_normal_mask",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait":"",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "left",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

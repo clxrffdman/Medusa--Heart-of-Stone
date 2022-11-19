@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyHurtbox
+  - PlayerHurtbox
+  - Item
+  - Shield
+  - Reflective
+  - MinoWall
+  - FallingRock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Obstacle
+  - Enemy
+  - PlayerDetectionLayer
+  - PostProcessing
+  - Item
+  - Reflection
+  - EnemyDetectionLayer
+  - Npc
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1374306953
+    locked: 0
+  - name: UnlitBackground
+    uniqueID: 123695659
+    locked: 0
+  - name: Midground
+    uniqueID: 343701045
+    locked: 0
+  - name: Player
+    uniqueID: 2805297285
+    locked: 0
+  - name: Effects
+    uniqueID: 2662840741
+    locked: 0
+  - name: Foreground
+    uniqueID: 3144512791
+    locked: 0
+  - name: UI
+    uniqueID: 3571585189
+    locked: 0
+  - name: PostProcessing
+    uniqueID: 160836087
+    locked: 0

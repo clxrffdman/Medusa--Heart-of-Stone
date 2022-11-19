@@ -1,0 +1,69 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "I am the original. They thought I looked too bitchy.",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerOnePortrait": "medusa_evil",
+				"speakerTwoPortrait": "none",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "heaven",
+				"overrideFacingDirectionPlayer": "left",
+				"overrideFacingDirectionNPC":"right",
+				"questCompleted": "talk_to_oracle"
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "",
+				"replies": [
+					"Yeah... ",
+					"Of course I am. "
+				],
+				"nodeLinks": [2,3],
+				"speakerOnePortrait": "",
+				"speakerTwoPortrait": "medusa_glamorous",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			},
+
+			{
+				"id": 2,
+				"spokenWords": "Seriously!",
+				"replies": [],
+				"nodeLinks": [3],
+				"speakerOnePortrait": "medusa_evil",
+				"speakerTwoPortrait": "medusa_evil",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			},
+
+			{
+				"id": 3,
+				"spokenWords": "Nope, I'm much better.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerOnePortrait": "medusa_heroine",
+				"speakerTwoPortrait": "medusa_evil",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			}
+
+		]
+	
+}

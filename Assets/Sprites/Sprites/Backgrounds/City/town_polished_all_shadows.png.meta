@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 5914bbc4669a648e79f154cb9aec43c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7382821406435404758
+    second: town_polished_all_shadows_0
+  - first:
+      213: -164504369303690339
+    second: eleventh_shadow
+  - first:
+      213: -2294194047312507432
+    second: town_polished_all_shadows_2
+  - first:
+      213: -422154217973245380
+    second: fifth_shadow
+  - first:
+      213: -1150552263161864571
+    second: seventh_shadow
+  - first:
+      213: 3865408701341602685
+    second: town_polished_all_shadows_5
+  - first:
+      213: 6265754468179765996
+    second: second_shadow
+  - first:
+      213: 8109154997514016715
+    second: first_shadow
+  - first:
+      213: 8115262845970407768
+    second: third_shadow
+  - first:
+      213: -6297894298995467567
+    second: fourht_shadow
+  - first:
+      213: -6806315948349051616
+    second: sixth_shadow
+  - first:
+      213: 3413414923400192787
+    second: eighth_shadow
+  - first:
+      213: -8531055974447113654
+    second: nineth_shadow
+  - first:
+      213: -8911817550626777044
+    second: tenth_shadow
+  - first:
+      213: -4850645436978189356
+    second: twelfth_shadow
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: town_polished_all_shadows_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 827
+        width: 596
+        height: 445
+      alignment: 9
+      pivot: {x: 0.5075689, y: 0.0624439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db6bba04fc057660800000000000000
+      internalID: 7382821406435404758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eleventh_shadow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2035
+        width: 3666
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9367afc52097bdf0800000000000000
+      internalID: -164504369303690339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_polished_all_shadows_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2105
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd4f1c4ba26920e0800000000000000
+      internalID: -2294194047312507432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fifth_shadow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 189
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a9545b9f4342af0800000000000000
+      internalID: -422154217973245380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seventh_shadow
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1415
+        width: 521
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e17b200da6800f0800000000000000
+      internalID: -1150552263161864571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_polished_all_shadows_5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 823
+        width: 2438
+        height: 445
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.07360401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d739b2bebb0b4a530800000000000000
+      internalID: 3865408701341602685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: second_shadow
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 716
+        width: 683
+        height: 560
+      alignment: 9
+      pivot: {x: 0.49918103, y: 0.23049197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaebadcd7e64f650800000000000000
+      internalID: 6265754468179765996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first_shadow
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 717
+        width: 696
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5245421, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7186f8181898070800000000000000
+      internalID: 8109154997514016715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: third_shadow
+      rect:
+        serializedVersion: 2
+        x: 4441
+        y: 716
+        width: 389
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851edf8df843f9070800000000000000
+      internalID: 8115262845970407768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fourht_shadow
+      rect:
+        serializedVersion: 2
+        x: 4830
+        y: 716
+        width: 1837
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dada63b0826998a0800000000000000
+      internalID: -6297894298995467567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sixth_shadow
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1416
+        width: 680
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d2495d4bb1b81a0800000000000000
+      internalID: -6806315948349051616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eighth_shadow
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1415
+        width: 3398
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313294ca9c2ee5f20800000000000000
+      internalID: 3413414923400192787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nineth_shadow
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 1415
+        width: 737
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1b1c6ac99b9980800000000000000
+      internalID: -8531055974447113654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenth_shadow
+      rect:
+        serializedVersion: 2
+        x: 5525
+        y: 1415
+        width: 1142
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5016222, y: 0.19804297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c289ccf872dd25480800000000000000
+      internalID: -8911817550626777044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twelfth_shadow
+      rect:
+        serializedVersion: 2
+        x: 4109
+        y: 2036
+        width: 2558
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbab85ccab0facb0800000000000000
+      internalID: -4850645436978189356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,69 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "I'm really intrigued. What is this thing in your chest that you want me to have?",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerName": "oracle",
+				"speakerOnePortrait": "oracle_happy",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "medusa_normal",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "Nothing special. Just something I thought you might like.",
+				"replies": [],
+				"nodeLinks": [2],
+				"speakerName": "medusa",
+				"speakerOnePortrait": "oracle_normal",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "medusa_nervous",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			},
+
+			{
+				"id": 2,
+				"spokenWords": "Well, go get it! I'm dying of anticipation.",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "oracle",
+				"speakerOnePortrait": "oracle_happy",
+				"onePortraitFacingDirection": "",
+				"speakerTwoPortrait": "medusa_happy",
+				"twoPortraitFacingDirection": "",
+				"centerPortrait": "",
+				"voice": "female",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+
+		]
+	
+}

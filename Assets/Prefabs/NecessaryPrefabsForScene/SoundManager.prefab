@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1333597933933058853
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1333597933933058855}
+  - component: {fileID: 1333597933933058854}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1333597933933058855
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1333597933933058853}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1333597933933058854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1333597933933058853}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd6de4699812f47eda616f66ab73f8ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+    type: 2}
+  sounds:
+  - name: main_menu_music
+    clip: {fileID: 8300000, guid: e4db7f25793dc4c50a7c259a1f3809b9, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: medusa_room
+    clip: {fileID: 8300000, guid: 3df9ef30ad90e44ecbc11842687bdca8, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: medusa_garden
+    clip: {fileID: 8300000, guid: fe9cc1b07b1284a0b8fa05441f2fa565, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: cave
+    clip: {fileID: 8300000, guid: 19fba191754b0457b83dbf08372d3678, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: forest_night
+    clip: {fileID: 8300000, guid: ff0f26d5489f34abea7e88f94ff06d39, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: fight_music
+    clip: {fileID: 8300000, guid: 111b92aa20aa145ee9f91bffa1fd9904, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: fight_music_02
+    clip: {fileID: 8300000, guid: 5bd734ca18a064105a0396f1142d3d33, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: fight_music_03
+    clip: {fileID: 8300000, guid: 54554027051194849b187354d1fa8cc7, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: hecate_temple
+    clip: {fileID: 8300000, guid: 651b55a1e8dd54ac89af2b8f76c68e5e, type: 3}
+    volume: 0.12
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: dating_game
+    clip: {fileID: 8300000, guid: 9a65fe2e92fed4adab8a58454e60c9c3, type: 3}
+    volume: 0.4
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: farmlands
+    clip: {fileID: 8300000, guid: 1308922f84a2341b5bdd5275fbf2a235, type: 3}
+    volume: 0.5
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: city
+    clip: {fileID: 8300000, guid: f6f4f96932c1e4b619ffef89c50a2911, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: storage_room
+    clip: {fileID: 8300000, guid: 1308922f84a2341b5bdd5275fbf2a235, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: chimera_forest
+    clip: {fileID: 8300000, guid: 9dbe82b7241cd4ed98088040ae4104cd, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  - name: end_screen
+    clip: {fileID: 8300000, guid: eb5045b5ce43a4da0873da4f38c43a9b, type: 3}
+    volume: 0.2
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 7091704588956957635, guid: 1d801beb6a46b4be3b1aad1443ffdfbd,
+      type: 2}
+    source: {fileID: 0}
+  currentMusicPlaying: 

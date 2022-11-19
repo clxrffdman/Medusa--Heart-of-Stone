@@ -1,0 +1,38 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "There she is!",
+				"replies": [],
+				"nodeLinks": [1],
+				"speakerOnePortrait": "none",
+				"speakerTwoPortrait": "soldier_temp_portrait",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "heaven",
+				"overrideFacingDirectionPlayer": "left",
+				"overrideFacingDirectionNPC":"right",
+				"questCompleted": "talk_to_oracle"
+			},
+
+			{
+				"id": 1,
+				"spokenWords": "Get her!",
+				"replies": [],
+				"nodeLinks": [2],
+				"speakerOnePortrait": "",
+				"speakerTwoPortrait": "soldier_temp_portrait",
+				"voice": "male",
+				"audioSFX": "",
+				"musicCue": "",
+				"overrideFacingDirectionPlayer": "",
+				"overrideFacingDirectionNPC":"",
+				"questCompleted": ""
+			}
+
+
+
+		]
+	
+}

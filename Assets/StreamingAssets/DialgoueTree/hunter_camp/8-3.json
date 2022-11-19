@@ -1,0 +1,26 @@
+{
+	"dialogueNodes":
+		[
+			{
+				"id": 0,
+				"spokenWords": "We're halfway there. Keep it up!",
+				"replies": [],
+				"nodeLinks": [],
+				"speakerName": "snakey",
+				"speakerOnePortrait": "medusa_normal_mask",
+				"onePortraitFacingDirection": "right",
+				"speakerTwoPortrait": "snakey_happy",
+				"twoPortraitFacingDirection": "left",
+				"centerPortrait":"",
+				"voice": "snake",
+				"audioSFX": "",
+				"musicCue": "",
+				"speakersShouldNotFaceEachother": false,
+				"overrideFacingDirectionPlayer": "right",
+				"currentNpc": "",
+				"overrideFacingDirectionNPC":"",
+				"taskCompleted": ""
+			}
+		]
+	
+}

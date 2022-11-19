@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 878be971c2f51403cafee12549119cd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4276017570080511246
+    second: forest_bush_night_01
+  - first:
+      213: -2637332625957320256
+    second: forest_bush_night_02
+  - first:
+      213: -6745040032360538581
+    second: forest_bush_night_03
+  - first:
+      213: -1685147248951748046
+    second: forest_bush_night_04
+  - first:
+      213: -998428486180957069
+    second: forest_bush_night_0
+  - first:
+      213: 2755687352930358748
+    second: forest_bush_night_05
+  - first:
+      213: -2488074561209249243
+    second: forest_bush_night_06
+  - first:
+      213: -3717186608707684122
+    second: forest_bush_night_07
+  - first:
+      213: -2012227855595088154
+    second: forest_bush_night_08
+  - first:
+      213: 2640056664951361741
+    second: forest_bush_night_09
+  - first:
+      213: -4180779141545760674
+    second: forest_bush_night_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forest_bush_night_01
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 801
+        width: 350
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5049018, y: 0.09011365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055afd1357775b30800000000000000
+      internalID: 4276017570080511246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_bush_night_02
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 819
+        width: 424
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.07383593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9044b23ff466bd0800000000000000
+      internalID: -2637332625957320256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_bush_night_03
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 568
+        width: 502
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10441762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e5c5bc3ddc462a0800000000000000
+      internalID: -6745040032360538581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_bush_night_04
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 551
+        width: 432
+        height: 212
+      alignment: 9
+      pivot: {x: 0.49703625, y: 0.11350783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a110061872d98e0800000000000000
+      internalID: -1685147248951748046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_bush_night_0
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 587
+        width: 592
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5019556, y: 0.082991324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3749d8be49ed422f0800000000000000
+      internalID: -998428486180957069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_bush_night_05
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 393
+        width: 482
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5061933, y: 0.16015474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd553771c0b2e3620800000000000000
+      internalID: 2755687352930358748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_bush_night_06
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 341
+        width: 427
+        height: 199
+      alignment: 9
+      pivot: {x: 0.49582902, y: 0.11516383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522df647e55987dd0800000000000000
+      internalID: -2488074561209249243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_bush_night_07
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 349
+        width: 471
+        height: 198
+      alignment: 9
+      pivot: {x: 0.49806035, y: 0.15860802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b3205976e96cc0800000000000000
+      internalID: -3717186608707684122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_bush_night_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 654
+        height: 267
+      alignment: 9
+      pivot: {x: 0.49259987, y: 0.24623263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6db143d612314e0800000000000000
+      internalID: -2012227855595088154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_bush_night_09
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 72
+        width: 678
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5050326, y: 0.18677658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc014559c8d53a420800000000000000
+      internalID: 2640056664951361741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_bush_night_10
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 90
+        width: 536
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14834672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e586dcf7583eaf5c0800000000000000
+      internalID: -4180779141545760674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
